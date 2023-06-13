@@ -8,6 +8,7 @@ under various loading conditions.
 uses NumPy, ScipPy, MatPlotLib, sklearn, pickle, and pyLabFEA.model
 
 Version: 4.1 (2022-01-23)
+Last Update: (13-06-2023)
 Authors: Alexander Hartmaier, Ronak Shoghi, ICAMS/Ruhr University Bochum, Germany
 Email: alexander.hartmaier@rub.de
 distributed under GNU General Public License (GPLv3)"""
